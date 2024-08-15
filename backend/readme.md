@@ -1,0 +1,1 @@
+node,nodemon, dotenv, mongoose,date-fns,react-router-dom
